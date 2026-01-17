@@ -1,0 +1,22 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  font-family: Arial, sans-serif;
+}
+.navbar-brand {
+  font-size: 1.5rem;
+}
+
+.nav-link {
+  font-weight: 500;
+  margin-left: 15px;
+}
+.navbar-brand {
+  color: #e83e8c !important;
+}
+
+
+body {
+  background: yellow;
+}
